@@ -3,4 +3,4 @@ Creating network science-themed web apps with NetworkX, and HoloViz's hvPlot and
 
 ![](img/app_pic1.png)
 
-todo: add dropdowns for selecting topology (scale-free, random, . . . ), graph layout algorithm, etc.
+todo: add drop-down menus for selecting topology (scale-free, random, . . . ), graph layout algorithm, etc.
